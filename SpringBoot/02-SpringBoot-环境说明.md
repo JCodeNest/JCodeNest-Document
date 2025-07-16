@@ -1,4 +1,4 @@
-# 02-Spring Boot-环境说明
+# 02-SpringBoot-环境说明
 
 ## 版本选择与生命周期
 
