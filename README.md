@@ -10,5 +10,6 @@ Old Li's Technical Musings — A collection of thoughts and essays on technology
     - [SpringBoot - Introduce](SpringBoot/01-SpringBoot-Introduce.md)
     - [SpringBoot - Environment](SpringBoot/02-SpringBoot-Environment.md)
     - [SpringBoot - QuickStart](SpringBoot/03-SpringBoot-QuickStart.md)
+    - [SpringBoot - Mvnd](SpringBoot/04-SpringBoot-Mvnd.md)
 
 Continuously updating ...
